@@ -1,0 +1,22 @@
+.App {
+  margin-top: 25px;
+  width: 90%;
+  height: 100vh;
+
+  justify-content: stretch;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("./ball.jpg");
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+}
+
+h1 {
+  margin-top: 15px;
+  color: white;
+}
+

@@ -1,0 +1,16 @@
+.inputForm{
+    text-align: center;
+    display: flexbox;
+    flex-wrap: wrap;
+    
+}
+
+input{
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+.submitButton{
+    margin-top: 8px;
+}
+
